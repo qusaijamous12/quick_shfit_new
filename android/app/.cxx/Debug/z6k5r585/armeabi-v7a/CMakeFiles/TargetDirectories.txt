@@ -1,0 +1,2 @@
+C:/Users/ADMIN/Desktop/projects/quick_shift-main/quick_shift-main/android/app/.cxx/Debug/z6k5r585/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/projects/quick_shift-main/quick_shift-main/android/app/.cxx/Debug/z6k5r585/armeabi-v7a/CMakeFiles/rebuild_cache.dir

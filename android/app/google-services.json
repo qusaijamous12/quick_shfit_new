@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530097269490",
+    "project_id": "test-ec1bf",
+    "storage_bucket": "test-ec1bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530097269490:android:2f6d429c8c1812ee607e6b",
+        "android_client_info": {
+          "package_name": "com.example.quickshif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWxd4Cg67vCjkgRXusARg9MhSPLudUXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
